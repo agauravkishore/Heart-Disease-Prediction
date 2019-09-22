@@ -40,8 +40,10 @@ Variable to be predicted
 Absence (1) or presence (2) of heart disease
 
 Code for the project
+--------------------------
 The notebook for this project can be found in Heart Disease Prediction.ipynb
 
 Classification model
+----------------------------
 Build a KNN classifier and a logistic regression classifer. Based on their performance on the training and validtion dataset.
 Apply the best classifer and test perfomance on the test set.
